@@ -1,0 +1,10 @@
+com.example.raul.myapplicationani.MyActivity -> com.example.raul.myapplicationani.MyActivity:
+    void onCreate(android.os.Bundle) -> onCreate
+    boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    void pasarActividad2(android.view.View) -> pasarActividad2
+    boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+com.example.raul.myapplicationani.MyActivity2 -> com.example.raul.myapplicationani.MyActivity2:
+    void onCreate(android.os.Bundle) -> onCreate
+    void regresarActividad1(android.view.View) -> regresarActividad1
+    boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected

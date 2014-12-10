@@ -1,0 +1,10 @@
+com.example.raul.myapplicationani.BuildConfig
+com.example.raul.myapplicationani.R
+com.example.raul.myapplicationani.R$attr
+com.example.raul.myapplicationani.R$dimen
+com.example.raul.myapplicationani.R$drawable
+com.example.raul.myapplicationani.R$id
+com.example.raul.myapplicationani.R$layout
+com.example.raul.myapplicationani.R$menu
+com.example.raul.myapplicationani.R$string
+com.example.raul.myapplicationani.R$style

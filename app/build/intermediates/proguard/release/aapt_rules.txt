@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:16
+-keep class com.example.raul.myapplicationani.MyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.example.raul.myapplicationani.MyActivity2 { <init>(...); }
+
+# onClick res/layout/activity_my.xml #generated:12
+-keepclassmembers class * { *** pasarActividad2(...); }
+
+# onClick res/layout/activity_my_activity2.xml #generated:43
+-keepclassmembers class * { *** regresarActividad1(...); }
+

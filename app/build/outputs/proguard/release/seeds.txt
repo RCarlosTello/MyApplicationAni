@@ -1,0 +1,35 @@
+com.example.raul.myapplicationani.MyActivity
+com.example.raul.myapplicationani.MyActivity: MyActivity()
+com.example.raul.myapplicationani.MyActivity: void pasarActividad2(android.view.View)
+com.example.raul.myapplicationani.MyActivity2
+com.example.raul.myapplicationani.MyActivity2: MyActivity2()
+com.example.raul.myapplicationani.MyActivity2: void regresarActividad1(android.view.View)
+com.example.raul.myapplicationani.R$dimen: int activity_horizontal_margin
+com.example.raul.myapplicationani.R$dimen: int activity_vertical_margin
+com.example.raul.myapplicationani.R$drawable: int ale
+com.example.raul.myapplicationani.R$drawable: int ale1
+com.example.raul.myapplicationani.R$drawable: int george
+com.example.raul.myapplicationani.R$drawable: int ic_launcher
+com.example.raul.myapplicationani.R$drawable: int rec1
+com.example.raul.myapplicationani.R$drawable: int rectangulo
+com.example.raul.myapplicationani.R$drawable: int udlap
+com.example.raul.myapplicationani.R$id: int action_settings
+com.example.raul.myapplicationani.R$id: int button
+com.example.raul.myapplicationani.R$id: int button2
+com.example.raul.myapplicationani.R$id: int imageView
+com.example.raul.myapplicationani.R$id: int imageView2
+com.example.raul.myapplicationani.R$id: int imageView3
+com.example.raul.myapplicationani.R$id: int imageView5
+com.example.raul.myapplicationani.R$id: int textView
+com.example.raul.myapplicationani.R$id: int textView2
+com.example.raul.myapplicationani.R$id: int textView3
+com.example.raul.myapplicationani.R$layout: int activity_my
+com.example.raul.myapplicationani.R$layout: int activity_my_activity2
+com.example.raul.myapplicationani.R$layout: int menubase
+com.example.raul.myapplicationani.R$menu: int my
+com.example.raul.myapplicationani.R$menu: int my_activity2
+com.example.raul.myapplicationani.R$string: int action_settings
+com.example.raul.myapplicationani.R$string: int app_name
+com.example.raul.myapplicationani.R$string: int hello_world
+com.example.raul.myapplicationani.R$string: int title_activity_my_activity2
+com.example.raul.myapplicationani.R$style: int AppTheme
